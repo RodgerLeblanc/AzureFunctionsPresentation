@@ -1,12 +1,15 @@
 # Références
 
-Slides: [bit.ly/cleanCodePresentation](http://bit.ly/cleanCodePresentation)
+Slides: [bit.ly/AFSlides](http://bit.ly/AFSlides)
 
-Cheat sheet: [bit.ly/cleanCodeCheatSheet](http://bit.ly/cleanCodeCheatSheet)
+Azure Functions: [bit.ly/AzureFunctions](http://bit.ly/AzureFunctions)
 
-Clean Code .NET: [bit.ly/cleanCodeDotNet](http://bit.ly/cleanCodeDotNet)
+URL public pour localhost: [ngrok.com](https://ngrok.com/)
 
-Autres langues: [bit.ly/cleanCodeOtherLanguages](http://bit.ly/cleanCodeOtherLanguages)
+If This Then That: [ifttt.com](https://ifttt.com/)
+
+Envoyer courriel: [sendgrid.com](https://sendgrid.com/)
 
 Notes:
 - Les slides ont été créées avec [Reveal.js](https://revealjs.com/#/)
+- Open Trois-Rivières
